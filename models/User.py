@@ -13,6 +13,7 @@ class User(db.Model):
     ratingpilot = db.Column(db.Integer, unique=False, nullable=True)
     email = db.Column(db.String(120), unique=True, nullable=True)
     password = db.Column(db.String(120), unique=False, nullable=True)
+    location = db.Column(db.Integer, db.ForeignKey('airports.id'))
 
     def __repr__(self):
         return '<User %r>' % self.vid

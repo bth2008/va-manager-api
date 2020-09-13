@@ -1,0 +1,2304 @@
+A002,A-002,L
+A1,Skyraider,M
+A10,A-10 Thunderbolt 2,M
+A109,A-109,L
+A119,A-119 Koala,L
+A122,Uirapuru,L
+A124,An-124 Ruslan,H
+A129,A-129 Mangusta,L
+A139,AB-139,L
+A140,An-140,M
+A148,An-148,M
+A16,A-16 Sport Falcon,L
+A19,A-19,L
+A20,A-20 Havoc,M
+A205,MAI-205,L
+A21,A-21 Solo,L
+A210,A-210,L
+A211,A-211,L
+A22,A-22 Piranha,L
+A223,MAI-223 Kityonok,L
+A225,An-225 Mriya,H
+A23,A-23 Dragon,L
+A25,A-25 Breeze,L
+A27,A-27,L
+A270,Ae-270 Ibis,L
+A29,A-29,L
+A2RT,Ansat 2RT,L
+A3,A-3 Skywarrior,M
+A306,A-300B4-600,H
+A30B,A-300B2,H
+A31,A-31 Spectrum,L
+A310,A-310,H
+A318,A-318,M
+A319,A-319,M
+A320,A-320,M
+A321,A-321,M
+A33,A-33,L
+A332,A-330-200,H
+A333,A-330-300,H
+A342,A-340-200,H
+A343,A-340-300,H
+A345,A-340-500,H
+A346,A-340-600,H
+A35,A-35 Scanner,L
+A37,A-37 Dragonfly,L
+A388,A-380-800,H
+A3ST,A-300ST Beluga,H
+A4,A-4 Skyhawk,M
+A400,A-400M,H
+A50,A-50,H
+A500,A-500 CarbonAero,L
+A504,504 Replica,L
+A6,A-6 Intruder,M
+A660,S-2R-T660 Turbo Thrush,L
+A7,A-7 Corsair 2,M
+A700,A-700 AdamJet,L
+A743,An-74-300,M
+A748,HS-748 Andover,M
+A890,MAI-890,L
+A9,Ag Commander (A-9),L
+A900,MAI-900 Acrobat,L
+A910,MAI-910,L
+AA1,Trainer,L
+AA37,A-37,L
+AA5,AA-5 Tiger,L
+AAT3,AT-3,L
+AB11,AB-115,L
+AB15,AB-150,L
+AB18,AB-180,L
+AB95,AB-95,L
+AC11,Commander 112,L
+AC4,AC-4,L
+AC50,500 Shrike Commander,L
+AC56,Commander 560,L
+AC5A,AC-500 Aircar,L
+AC5M,AC-5M,L
+AC68,Commander 680F,L
+AC6L,Commander 685,L
+AC72,720 Alti Cruiser,L
+AC80,Turbo Commander (680),L
+AC90,Turbo Commander 690,L
+AC95,Jetprop Commander 980,L
+ACAM,Air Cam,L
+ACAR,Autocar,L
+ACED,P-70 Acey Deucy,L
+ACJR,Air Car Junior,L
+ACPL,Acapella,L
+ACR2,Acro-Sport 2,L
+ACRD,Accord,L
+ACRO,Acro-Sport 1,L
+ACSR,Aircruiser,L
+AD20,AD-200,L
+ADEL,Adel,L
+ADVE,J-5 Adventurer,L
+ADVN,Adventurer,L
+AE45,Aero 45,L
+AEA1,A-1,L
+AEST,PA-60 Aerostar,L
+AG02,AG-02 Poussin,L
+AGSH,Sea Hawker,L
+AI10,Ai-10 Ikar,L
+AIGT,Aiglet Trainer,L
+AIRD,A-109 Airedale,L
+AIRL,Airelle,L
+AJ27,ARJ-21-700,M
+AJET,Alpha Jet,M
+AK1,AK-1,L
+AKRO,Akro,L
+ALBU,Alaskan Bushmaster,L
+ALC1,AC-11,L
+ALGR,Allegro,L
+ALH,ALH Dhruv,L
+ALIG,Lightning,L
+ALIZ,1050 Alizé,M
+ALO2,SA-318 Alouette 2,L
+ALO3,Alouette 3,L
+ALPI,Alpine,L
+ALTO,Alto,L
+AM3,AM-3 Bosbok,L
+AMX,AMX Ghibli,M
+AN12,An-12,M
+AN2,An-2,L
+AN22,An-22 Antheus,H
+AN24,An-24,M
+AN26,An-26,M
+AN28,An-28,L
+AN3,An-3,L
+AN30,An-30,M
+AN32,An-32,M
+AN38,An-38,M
+AN70,An-70,M
+AN72,An-72,M
+AN8,An-8,M
+ANGL,44 Angel,L
+ANSN,652 Anson,L
+ANST,Ansat,L
+AP20,A-20,L
+AP22,A-22,L
+AP24,A-24 Viking,L
+AP26,A-26 Twin Vista,L
+AP28,A-28 Victor,L
+AP36,A-36 Vulcan,L
+APM2,APM-20 Lionceau,L
+APM3,APM-30 Lion,L
+APUP,Aeropup,L
+AR11,11 Chief,L
+AR15,15 Sedan,L
+AR79,Ar-79,L
+ARES,151 Ares,L
+ARKS,A-200 Aeriks 200,L
+ARON,F-220 Airone,L
+ARV1,ARV-1 Super 2,L
+ARVA,Arava,L
+ARWF,F Sport,L
+AS02,Bravo,L
+AS14,ASK-14,L
+AS16,ASK-16,L
+AS20,ASW-20TOP,L
+AS21,ASK-21Mi,L
+AS22,ASW-22BE,L
+AS24,ASW-24,L
+AS25,ASH-25,L
+AS26,ASH-26E,L
+AS28,ASW-28E,L
+AS2T,AS-202-32TP Turbine Bravo,L
+AS32,Super Puma,M
+AS3B,Super Puma Mk2,M
+AS50,AS-350 Ecureuil,L
+AS55,Ecureuil 2,L
+AS65,Dolphin,L
+AS80,AS-80 Holiday,L
+ASO4,Asso 4 Whisky,L
+ASTR,Gulfstream G100,M
+AT3,AT-3 Tzu-Chung,M
+AT3P,AT-300,L
+AT3T,AT-302,L
+AT43,ATR-42-300,M
+AT44,ATR-42-400 Surveyor,M
+AT45,ATR-42-500 Surveyor,M
+AT5P,AT-501,L
+AT5T,AT-502,L
+AT6T,AT-602,L
+AT72,ATR-72,M
+AT8T,AT-802 Fire Boss,L
+ATAC,Acro 1,L
+ATG1,ATG-1 Javelin,L
+ATIS,Atlantis,L
+ATL,ATL,L
+ATLA,1150 Atlantic,M
+ATP,ATP,M
+ATTL,ATTL-1,L
+AU11,E-3 Auster AOP11,L
+AUJ2,J-2 Arrow,L
+AUJ4,J-4 Archer,L
+AUS3,Auster 3,L
+AUS4,Auster 4,L
+AUS5,Auster 5 Alpha,L
+AUS6,Auster AOP6,L
+AUS7,Auster T7,L
+AUS9,Auster AOP9,L
+AV68,AVO-68 Samburo,L
+AVAM,Catalina,L
+AVID,Avid Commuter,L
+AVIN,Avian,L
+AVK4,400,L
+AVLN,Avalon 680,L
+AVTR,Aventura 2,L
+B06,JetRanger,L
+B06T,TwinRanger,L
+B1,B-1 Lancer,H
+B103,Be-103 Bekas,L
+B105,BO-105,L
+B13,B-13,L
+B14A,14 Cruisair,L
+B14B,14 Bellanca 260,L
+B14C,14 Bellanca 260,L
+B17,B-17 Flying Fortress,M
+B18T,18 (turbine),L
+B190,1900,M
+B2,B-2 Spirit,H
+B209,BO-209 Monsun,L
+B212,212,L
+B214,214,M
+B222,222,L
+B23,B-23 Dragon,M
+B230,230,L
+B24,B-24 Liberator,M
+B25,B-25 Mitchell,M
+B26,A-26 Invader,M
+B26M,B-26 Marauder,M
+B29,B-29 Superfortress,M
+B305,305,L
+B350,King Air 350,L
+B360,Bear 360,L
+B36T,36 Bonanza (turbine),L
+B407,407,L
+B412,412,L
+B427,427,L
+B429,429 GlobalRanger,L
+B430,430,L
+B461,BAe-146-100 Statesman,M
+B462,BAe-146-200,M
+B463,BAe-146-300,M
+B47G,47G,L
+B47J,47J Ranger,L
+B47T,Bell 47,L
+B52,B-52 Stratofortress,H
+B60,Mercurey,L
+B609,BA-609,M
+B60T,60 Royal Turbine Duke,L
+B701,707-100,M
+B703,707-300,H
+B712,717-200,M
+B720,720,M
+B721,727-100,M
+B722,727-200,M
+B731,737-100,M
+B732,737-200,M
+B733,737-300,M
+B734,737-400,M
+B735,737-500,M
+B736,737-600,M
+B737,737-700,M
+B738,737-800,M
+B739,737-900,M
+B741,747-100,H
+B742,747-200,H
+B743,747-300,H
+B744,747-400,H
+B748,747-800,H
+B74D,"747-400 (domestic, no winglets)",H
+B74R,747SR,H
+B74S,747SP,H
+B752,757-200,M
+B753,757-300,M
+B762,767-200,H
+B763,767-300,H
+B764,767-400,H
+B772,777-200,H
+B773,777-300,H
+B77L,777-200LR,H
+B77W,777-300ER,H
+B783,787-3 Dreamliner,H
+B788,787-8 Dreamliner,H
+B789,787-9 Dreamliner,H
+BA11,111 One-Eleven,M
+BABY,Baby Belle,L
+BALL,Balloon,-
+BAR6,BarrSix,L
+BARC,Barracuda,L
+BASS,B-206,L
+BBAT,BA-100 Aerobat,L
+BBIR,Beta Bird,L
+BCA3,CA-3 Sport Airsedan,L
+BCAT,Bearcat,L
+BD10,BD-10,L
+BD12,BD-12,L
+BD17,BD-17 Nuggett,L
+BD4,BD-4,L
+BD5,Micro (BD-5B/D/G),L
+BD5J,BD-5J Micro,L
+BD5T,BD-5TP Micro,L
+BDOG,Bulldog,L
+BE10,King Air (100),L
+BE12,Be-12 Tchaika,M
+BE17,17 Staggerwing,L
+BE18,18 Expeditor,L
+BE19,19 Musketeer Sport,L
+BE20,200 Super King Air,L
+BE23,23 Musketeer,L
+BE24,24 Sierra,L
+BE30,300 Super King Air,L
+BE32,Be-30,M
+BE33,33 Bonanza,L
+BE35,35 Bonanza,L
+BE36,36 Bonanza (piston),L
+BE40,400 Beechjet,M
+BE50,50 Twin Bonanza,L
+BE55,55 Baron,L
+BE56,56 Turbo Baron,L
+BE58,58 Baron,L
+BE60,60 Duke,L
+BE65,65 Queen Air,L
+BE70,70 Queen Air,L
+BE76,76 Duchess,L
+BE77,77 Skipper,L
+BE80,80 Queen Air,L
+BE88,88 Queen Air,L
+BE95,95 Travel Air,L
+BE99,99 Airliner,L
+BE9L,"King Air (90, A90 to E90)",L
+BE9T,King Air (F90),L
+BEAR,RB-4 Bearhawk,L
+BELF,SC-5 Belfast,M
+BER2,Be-200 Altair,M
+BER4,A-40 Albatross,M
+BETA,Beta,L
+BEVR,Beaver,L
+BF19,Bf-109G-2,L
+BFIT,F-2B Fighter Replica,L
+BILO,Bilouis,L
+BIPL,Biplane,L
+BIRD,Bird,L
+BK17,BK-117,L
+BKUT,Berkut,L
+BL11,11 Replica,L
+BL17,17 Viking,L
+BL19,19 Skyrocket,L
+BL8,8 Decathlon,L
+BLBU,Altania,L
+BLCF,747-400LCF Dreamlifter,H
+BLEN,149 Blenheim,L
+BLKS,Baby Lakes,L
+BM6,BM-6 Lark,L
+BN2P,BN-2 Islander,L
+BN2T,BN-2T Turbine Islander,L
+BOLT,Skybolt,L
+BOOM,202 Boomerang,L
+BPAT,Bearhawk Patrol,L
+BR14,14 Replica,L
+BR54,BRC-540,L
+BRAV,P-2004 Bravo,L
+BRB2,B-2,L
+BREZ,Breezer,L
+BROU,MH-1521 Broussard,L
+BRUM,Brumby,L
+BS60,60 Marquis,L
+BSCA,747SCA Shuttle Carrier,H
+BSTP,214ST SuperTransport,M
+BSTR,Bright Star,L
+BTUB,Dormoy Bathtub,L
+BU20,Bushmaster 2000,L
+BU31,Jungmann,L
+BU33,Jungmeister,L
+BU81,Bestmann,L
+BUC,Buccaneer,M
+BUCA,Buccaneer,L
+BULT,BJ-520 Bullet,L
+BX2,BX-2 Cherry,L
+C02T,402 (turbine),L
+C04T,404 (turbine),L
+C06T,206 (turbine),L
+C07T,207 (turbine),L
+C08T,208 Dual-Pac Caravan,L
+C1,C-1,M
+C101,C-101 Aviojet,L
+C10T,P210 (turbine),L
+C119,C-119 Flying Boxcar,M
+C120,120,L
+C123,C-123 Provider,M
+C125,C-125 Raider,M
+C130,C-130 Hercules,M
+C133,C-133 Cargomaster,M
+C135,C-135 Stratolifter,H
+C140,140,L
+C141,C-141 Starlifter,H
+C14T,414 (turbine),L
+C15,YC-15,M
+C150,150,L
+C152,A152 Aerobat,L
+C160,C-160,M
+C162,162 SkyCatcher,L
+C17,C-17 Globemaster 3,H
+C170,170,L
+C172,172 Skyhawk,L
+C175,175 Skylark,L
+C177,177 Cardinal,L
+C180,180 Skywagon,L
+C182,182 Skylane,L
+C185,185 Skywagon,L
+C188,188 AgWagon,L
+C190,190,L
+C195,195,L
+C2,C-2 Greyhound,M
+C205,205,L
+C206,206 Stationair,L
+C207,207 Stationair 7,L
+C208,208 Grand Caravan,L
+C210,210 Centurion,L
+C212,C-212 Aviocar,M
+C21T,421 (turbine),L
+C22J,C-22J Ventura,L
+C25A,525A Citation CJ2,L
+C25B,525B Citation CJ3,L
+C25C,525C Citation CJ4,M
+C270,C-270 Luciole,L
+C27J,C-27J Spartan,M
+C295,C-295 Persuader,M
+C303,T303 Crusader,L
+C30J,C-130J Hercules,M
+C310,310,L
+C320,320 Skyknight,L
+C335,335,L
+C336,336 Skymaster,L
+C337,337 Super Skymaster,L
+C340,340,L
+C365,C-3605,L
+C402,402,L
+C404,404 Titan,L
+C411,411,L
+C414,414 Chancellor,L
+C42,C-42 Bison,L
+C421,421,L
+C425,425 Conquest 1,L
+C441,441 Conquest,L
+C46,C-46 Commando,M
+C5,C-5 Galaxy,H
+C500,500 Citation 1,L
+C501,501 Citation 1SP,L
+C510,510 Citation Mustang,L
+C525,525 Citation CJ1,L
+C526,526 CitationJet,L
+C550,550 Citation 2,L
+C551,551 Citation 2SP,L
+C560,560 Citation 5,M
+C56X,560XL Citation Excel,M
+C650,650 Citation 3,M
+C680,680 Citation Sovereign,M
+C72R,172RG Cutlass RG,L
+C750,750 Citation 10,M
+C77R,177RG Cardinal RG,L
+C82,Packet,M
+C82R,Skylane RG,L
+C97,C-97 Stratofreighter,M
+CA12,CA-12 Comp Air 12,L
+CA19,Boomerang,L
+CA1P,CA-10 Comp Air 10,L
+CA1T,CA-10XLT Comp Air 10XLT,L
+CA25,CA-25 Winjeel,L
+CA3,CA-3 Comp Air 3,L
+CA4,CA-4 Comp Monster,L
+CA6,CA-6 Comp Air 6,L
+CA61,CA-61 Mini Ace,L
+CA65,CA-65 Skyfly,L
+CA7P,CA-7P Comp Air 7P,L
+CA7T,Comp Air 7T,L
+CA8,Comp Air 8,L
+CABN,Cabinaire,L
+CAD2,Bush Caddy R-120,L
+CAD4,Bush Caddy L-164,L
+CAJ,CA-J Comp Air Jet,L
+CAML,Camel,L
+CAMP,B-4 Aircamper,L
+CAN4,AN-4,L
+CAPL,Capella,L
+CAR,Aerocar,L
+CARV,ATL-98 Carvair,M
+CASS,Special,L
+CAT,PBY Catalina,M
+CAT1,Aerocat SR,L
+CAT2,Aerocat TR,L
+CAW,AW,L
+CB1,CB-1 Biplane,L
+CCOP,CarterCopter,L
+CD2,CD-2 Seastar,L
+CDC6,DC-6,L
+CDW1,DW-1,L
+CE15,Che-15,L
+CE22,Che-22 Corvette,L
+CE23,Che-23,L
+CE25,Che-25,L
+CE27,Che-27,L
+CE43,CE-43 Guepard,L
+CEGL,Eagle 300,L
+CELR,Celerity,L
+CENT,100 Centennial,L
+CFRE,Freedom,L
+CG3,G-3 Replica,L
+CGAN,Gannet,L
+CH1,A-CH-1 Chung-Tsing,L
+CH10,CH-100 Mono-Z,L
+CH15,CH-150 Acro-Z,L
+CH18,CH-180 Super Acro-Z,L
+CH20,CH-200 Zénith,L
+CH25,CH-250 Zénith,L
+CH2T,CH-2000 Zénith,L
+CH30,CH-300 Tri-Z,L
+CH40,402 Lancer,L
+CH50,CH-50 Mini-Z,L
+CH60,CH-600 Zodiac,L
+CH62,CH-620 Gemini,L
+CH64,CH-640 Zodiac,L
+CH7,CH-7 Kompress,L
+CH70,CH-701 Stol,L
+CH7A,Champ,L
+CH7B,Citabria (7GCBC/7KCAB),L
+CH80,CH-801 Stol,L
+CHAN,Chanute,L
+CHCS,Choucas,L
+CHGO,CHK-91 Chang-Gong 91,L
+CHIF,Chief,L
+CHIN,Chinook,L
+CHIP,Super-Chipmunk,L
+CHR1,CA-05 Christavia Mk1,L
+CHR4,CH-8 Christavia Mk4,L
+CHSY,Sycamore,L
+CICA,Cicada,L
+CJ1,CJ-1 Starlet,L
+CJ6,CJ-6,L
+CKUO,F-CK-1 Ching-Kuo,M
+CL2P,CL-215,M
+CL2T,CL-415,M
+CL30,BD-100 Challenger 300,M
+CL41,Tutor,L
+CL44,CL-44 Forty Four,M
+CL4G,CL-44-O Guppy,M
+CL60,Challenger 600,M
+CL8,CL-8 RSA Club,L
+CLA,A-2,L
+CLB1,B-1 Ag Commander,L
+CLBR,Celebrity,L
+CMA3,Martin 3,L
+CMAS,Airmaster,L
+CMD1,Commander 147,L
+CMDE,Commander Elite Side-by-Side,L
+CMDT,Commander Elite Tandem,L
+CN12,Nieuport 12-7/8,L
+CN35,CN-235 Persuader,M
+CNBR,Canberra,M
+CNDR,F-20TP Condor,L
+CNGP,NGP,L
+CNUK,80 Canuck,L
+COAR,Arrow,L
+COBR,Cobra,L
+COL3,Columbia 350,L
+COL4,Columbia 400,L
+COMU,H-1 Commuter,L
+CONI,Constellation,M
+COOT,Coot,L
+CORO,Corone,L
+CORR,SD-27 Corriedale,L
+CORS,F4U Corsair,M
+COUG,Cougar,L
+COUR,Courier,L
+COY2,S-6 Coyote 2,L
+COZY,Cozy,L
+CP10,CAP-10,L
+CP13,Super Emeraude,L
+CP20,CAP-20,L
+CP21,CAP-21,L
+CP22,CAP-222,L
+CP23,CAP-230,L
+CP30,CP-30 Emeraude,L
+CP32,Super Emeraude (CP-320/325/328),L
+CP60,Diamant,L
+CP65,CP-65 Collegiate,L
+CP75,CP-750 Béryl,L
+CP80,CP-80 Zéphir,L
+CP90,CP-90 Pinocchio,L
+CPNA,Capena,L
+CPUP,Sopwith Pup,L
+CR10,CR-100,L
+CRA1,A-1 Eagle,L
+CRAC,CJ-3 Cracker Jack,L
+CRER,S-7 Courier,L
+CRES,Cresco,L
+CRIO,Corsario,L
+CRJ1,CL-600 Regional Jet CRJ-100,M
+CRJ2,CL-600 Challenger 800,M
+CRJ7,CL-600 Regional Jet CRJ-700,M
+CRJ9,CL-600 Regional Jet CRJ-900,M
+CRJX,CL-600 Regional Jet CRJ-1000,M
+CRUZ,SportCruiser,L
+CT4,CT-4 Airtrainer,L
+CTAH,Cheetah,L
+CUB2,Cuby 2,L
+CUCA,Cadet,L
+CULP,Special,L
+CULV,V,L
+CULX,Culex,L
+CVLP,Metropolitan,M
+CVLT,CV-600,M
+CYCL,Skycycle,L
+CYGT,Cygnet Replica,L
+D1,New Derringer,L
+D11,D-11,L
+D139,Blue Bird,L
+D140,D-140 Abeille,L
+D150,D-150 Mascaret,L
+D18,D-18,L
+D201,D-201 Sportwing,L
+D228,228,L
+D25,D-25,L
+D250,DR-250 Capitaine,L
+D253,DR-253 Regent,L
+D28D,Do-28D Skyservant,L
+D28T,Do-28D-6 Turbo Skyservant,L
+D31,D-31 Turbulent,L
+D328,328,M
+D39,D-39,L
+D4,D-4,L
+D5,D-5 Husky,L
+D5TU,D-5 Turbi,L
+D6,D-6,L
+D6CR,Condor,L
+D7,D-7 Replica,L
+D8,D-8 Replica,L
+DA2,DA-2,L
+DA40,DA-40 Katana,L
+DA42,DA-42 Twin Star,L
+DA5,DA-5,L
+DA50,DA-50 SuperStar,L
+DAHU,Dahu,L
+DAKH,Dakota Hawk,L
+DAL1,DAL-1 Tuholer,L
+DAL4,D-4 Fascination,L
+DAL5,D-5 Evolution,L
+DART,Dart,L
+DC10,DC-10,H
+DC2,DC-2,M
+DC3,DC-3,M
+DC3S,Super DC-3,M
+DC3T,DC-3 (turbine),M
+DC4,DC-4,M
+DC6,DC-6,M
+DC7,DC-7 Seven Seas,M
+DC85,DC-8-50 Jet Trader,H
+DC86,DC-8-60,H
+DC87,DC-8-70,H
+DC91,DC-9-10,M
+DC92,DC-9-20,M
+DC93,DC-9-30,M
+DC94,DC-9-40,M
+DC95,DC-9-50,M
+DEAG,Double Eagle,L
+DEFI,40 Defiant,L
+DELF,Delfin,L
+DFL6,DFL-6 Saphir,L
+DFLY,Dragonfly,L
+DG15,Nightingale,L
+DG1T,DG-1000T,L
+DG40,DG-400,L
+DG50,DG-500M,L
+DG60,DG-600M,L
+DG80,DG-800,L
+DH2T,DHC-2 Mk3 Turbo Beaver,L
+DH3T,DHC-3 Turbo Otter,L
+DH60,DH-60 Moth,L
+DH80,DH-80 Puss Moth,L
+DH82,DH-82 Tiger Moth,L
+DH83,DH-83 Fox Moth,L
+DH85,DH-85 Leopard Moth,L
+DH87,DH-87 Hornet Moth,L
+DH88,DH-88 Comet Replica,L
+DH89,DH-89 Dragon Rapide,L
+DH8A,DHC-8-100 Dash 8,M
+DH8B,DHC-8-200 Dash 8,M
+DH8C,DHC-8-300 Dash 8,M
+DH8D,DHC-8-400 Dash 8,M
+DH90,DH-90 Dragonfly,L
+DH94,DH-94 Moth Minor,L
+DHA3,DHA-3 Drover,L
+DHC1,DHC-1 Chipmunk,L
+DHC3,DHC-3 Otter,L
+DHC4,DHC-4 Caribou,M
+DHC5,DHC-5 Buffalo,M
+DHC6,DHC-6 Twin Otter,L
+DHC7,DHC-7 Dash 7,M
+DIES,Dieselis,L
+DIJ3,Dijkhastar 3,L
+DIJ4,Dijkhastar 4,L
+DIMO,HK-36 Super Dimona,L
+DINO,GAK-22 Dinó,L
+DIPR,Dipper,L
+DISC,Discus BM,L
+DJET,D-Jet,L
+DJIN,SO-1221 Djinn,L
+DNGO,Dingo,L
+DO27,Do-27,L
+DO28,Do-28,L
+DOCX,ES-3 Doc's RX,L
+DON,Don,L
+DOVE,DH-104 Dove,L
+DR1,Dr-1,L
+DR10,DR-100 Ambassadeur,L
+DR22,DR-221 Dauphin,L
+DR30,DR-300,L
+DR40,DR-400,L
+DRAG,Dragon Fly,L
+DRIF,Drifter,L
+DRTG,G,L
+DSA1,DSA-1 Miniplane,L
+DSK,Golden Hawk,L
+DSLK,Skylark,L
+DUB2,2 Osa,L
+DUCE,Duce,L
+DUOD,Duo Discus T,L
+DUR5,Mk5,L
+DV20,DV-20 Katana,L
+DW1,DW-1 Eagle,L
+DWD2,D-26,L
+DYH2,H-2,L
+E110,EMB-110 Bandeirante,L
+E120,EMB-120 Brasilia,M
+E121,EMB-121 Xingu,L
+E135,EMB-135 Legacy 600,M
+E145,EMB-145,M
+E170,ERJ-170,M
+E190,ERJ-190 Lineage 1000,M
+E2,E-2 Hawkeye,M
+E200,EA-200,L
+E230,EA-230,L
+E2CB,E-2 Cub,L
+E300,EA-300,L
+E314,EMB-314 Super Tucano,L
+E3CF,E-3F Sentry,H
+E3TF,Sentry (TF33),H
+E400,EA-400,L
+E45X,ERJ-145XR,M
+E500,EA-500,L
+E50P,EMB-500 Phenom 100,L
+E55P,EMB-505 Phenom 300,L
+E6,E-6 Mercury,H
+E737,737-700 Wedgetail,M
+E767,E-767,H
+EA50,Eclipse 500,L
+EAEA,Easy Eagle,L
+EAGL,Eagle,L
+EAGT,American Eaglet,L
+EAGX,Eagle X-TS,L
+EC20,EC-120 Colibri,L
+EC25,EC-225 Super Puma Mk2+,M
+EC30,EC-130,L
+EC35,EC-135,L
+EC45,EC-145,L
+EC55,EC-155,L
+EC6,EC-6 Criquet,L
+ECHO,P-92 Echo,L
+EDGE,Edge 540,L
+EFOX,Eurofox,L
+EGRT,D-500 Egrett 2,L
+EH10,EH-101,M
+EL20,IE-202,L
+ELA7,ELA-07,L
+ELF,Elf,L
+ELIT,Epic Elite,L
+ELPS,Ellipse,L
+ELST,Elster,L
+ELTO,El Tomcat,L
+ELTR,IE-101 Elitar,L
+EM10,EM-10 Bielik,L
+EM11,EM-11 Orka,L
+EN28,F-28,L
+EN48,TH-28,L
+EP9,EP-9,L
+EPER,Epervier,L
+EPIC,Epic Dynasty,L
+ERAC,E-Racer,L
+ERCO,415 Ercoupe,L
+ES11,ES-101 Raven,L
+ES13,Spad 13 80%,L
+ESCA,Epic Escape,L
+ESCP,Escapade,L
+ESQL,Esqualo,L
+ETAR,Super Etendard,M
+EUFI,Eurofighter 2000,M
+EUPA,Europa,L
+EURT,Eurotrainer 2000,L
+EVAN,4500 Evangel,L
+EVIC,Epic Victory,L
+EVOL,Evolution,L
+EVSS,SportStar,L
+EX5T,Explorer 500T,L
+EXEC,Exec,L
+EXEJ,JetExec,L
+EXPL,MD-902 Explorer,L
+EXPR,Express,L
+EZFL,E-Z Flyer,L
+EZFT,Twin E-Z Flyer,L
+EZHV,E-Z Harvard,L
+EZKC,E-Z King Cobra,L
+F1,F-1,M
+F104,F-104 Starfighter,M
+F106,QF-106 Delta Dart,M
+F111,F-111 Aardvark,M
+F117,F-117 Nighthawk,M
+F14,F-14 Tomcat,M
+F15,F-15 Eagle,M
+F156,MS-500 Criquet,L
+F16,Fighting Falcon (F-16A/B/C/D/N),M
+F16X,F-16XL Fighting Falcon,M
+F18,FA-18 Hornet,M
+F2,F-2,M
+F22,F-22 Raptor,M
+F260,SF-260,L
+F26T,SF-260TP,L
+F27,F-27 Friendship,M
+F28,F-28 Fellowship,M
+F2TH,Falcon 2000,M
+F35,Lightning II (F-35A/C),M
+F3F,F3F Replica,L
+F4,F-4 Phantom 2,M
+F406,F406 Caravan 2,L
+F5,F-5 Tiger 2,M
+F50,50,M
+F5SA,F-5 Saeghe,M
+F60,60,M
+F600,SF-600 Canguro,L
+F70,70,M
+F8,F8 Crusader,M
+F86,F-86 Sabre,M
+F8L,F-8L Falco,L
+F900,Falcon 900,M
+F9F,F9F Panther,L
+FA01,FA-01 Saphir,L
+FA02,FA-02 Smaragd VLA,L
+FA10,Falcon 10,M
+FA11,F-11 Husky,L
+FA20,Falcon 20,M
+FA24,F-24 Argus,L
+FA50,Falcon 50,M
+FA62,Cornell,L
+FA7X,Falcon 7X,M
+FAET,321 Faeta,L
+FALC,Falcon XP,L
+FALM,M-3 Falcon Major,L
+FANL,FL-1 Fanliner,L
+FANT,Fantrainer,L
+FB1A,Fly Baby 1A,L
+FB1B,Fly Baby 1B,L
+FB5,FB-5 Star Light,L
+FBA2,FBA-2 Bush Hawk,L
+FBIR,Freebird Mk5,L
+FC1,FC-1 Xiaolong,M
+FDCT,CT,L
+FE51,P-51,L
+FEST,Festival,L
+FFLY,Firefly,L
+FG01,FG-01 Origan,L
+FGT,Formula GT,L
+FH11,FH-1100,L
+FIBO,Firebolt Convertible,L
+FIKD,D,L
+FIKE,E,L
+FINC,Finch,L
+FJ10,FJ-100,L
+FJR3,F-3,L
+FK12,FK-12 Comet,L
+FK14,FK-14 Polaris,L
+FK9,FK-9,L
+FL3,L-3 Aviastarlet,L
+FL53,FL-53,L
+FL54,FL-54,L
+FL55,FL-55,L
+FLAM,Flamant,L
+FLE2,2,L
+FLE7,7 Fawn,L
+FLIZ,Flitzer,L
+FLSH,Flash,L
+FN33,FN-333 Riviera,L
+FNKB,B,L
+FOOF,JD-2 Foo Fighter,L
+FORT,60 Fort,L
+FOUG,CM-170R Magister,L
+FOX,Kitfox,L
+FOXT,Foxtrot-4,L
+FREE,RC-412 Free Spirit,L
+FREL,SA-321 Super Frelon,M
+FRON,Frontier MD-2,L
+FS51,SAL P-51D Mustang,L
+FT30,FT-300,L
+FU24,FU-24,L
+FURY,Fury,L
+FW19,192,L
+FW21,FX-210,L
+FW44,Fw-44 Stieglitz,L
+FW90,Fw-190,L
+G103,G-103C Twin 3SL,L
+G109,G-109,L
+G115,G-115,L
+G120,G-120 Snunit,L
+G140,G-140TP,L
+G150,Gulfstream G150,M
+G159,G-159 Gulfstream 1,M
+G15T,G-115T Acro,L
+G160,G-160 Ranger,L
+G164,G-164 Ag-Cat,L
+G180,G1-80 Skyfarer,L
+G200,G-200,L
+G202,G-202,L
+G21,G-21A Goose,L
+G21M,Goose,L
+G21T,Turbo Goose,L
+G222,G-222,M
+G2CA,G-2 Cabri,L
+G2GL,G-2 Galeb,L
+G2T1,2T-1 Sport,L
+G3,G-3 Mirage,L
+G300,G-300,L
+G44,G-44 Widgeon,L
+G46,G-46,L
+G4SG,G-4 Super Galeb,L
+G59,G-59,L
+G64T,G-164 Turbo Ag-Cat,L
+G73,G-73 Mallard,L
+G73T,G-73T Turbo Mallard,L
+G800,Orion,L
+G850,G-850 Strato 2C,M
+G96,G-96 Trader,M
+G97,G-97 Spotter,L
+GA20,GA-200 Fatman,L
+GA7,GA-7 Cougar,L
+GA8,GA-8 Airvan,L
+GALX,1126 Gulfstream G200,M
+GANT,Gannet,M
+GAUN,Gauntlet,L
+GAVI,EL-1 Gavilan 358,L
+GAZL,Gazelle,L
+GBSP,GB Special,L
+GC1,GC-1 Swift,L
+GEMI,M-65 Gemini,L
+GF20,GF-200,L
+GFLY,311 Global Flyer,M
+GL5T,BD-700 Global 5000,M
+GLAD,Gladiator,L
+GLAS,Glasair,L
+GLEX,BD-700 Global Express,M
+GLF2,Gulfstream 2,M
+GLF3,Gulfstream 3,M
+GLF4,G-4 Gulfstream 4,M
+GLF5,G-5 Gulfstream 5,M
+GLID,Glider,-
+GLSP,Sportsman 2+2,L
+GLST,GlaStar,L
+GLTU,Turbine Glasair,L
+GM01,GM-01 Gniady,L
+GM17,GM-17 Viper,L
+GNAT,Fo-144 Gnat,L
+GOBU,Golden Butterfly,L
+GOLF,P-96 Golf,L
+GOOS,Glass Goose,L
+GOTR,GT-1 Trainer,L
+GP3,GP-3 Osprey 2,L
+GP4,GP-4,L
+GR51,P-51G Grand 51,L
+GRAF,Graflite,L
+GRFN,Griffon,L
+GRIF,Griffin,L
+GSIS,Genesis,L
+GSPN,G-180 SPn Utility Jet,L
+GUEP,Guepard,L
+GURI,AMT-600 Guri,L
+GX,GX,L
+GY10,GY-100 Bagheera,L
+GY20,GY-20 Minicab,L
+GY30,GY-30 Supercab,L
+GY80,GY-80 Horizon,L
+GYRO,Ultralight autogyro,-
+H111,He-111,M
+H12T,UH-12ET,L
+H2,Seaprite,L
+H202,HB-202 Fledger,L
+H204,HB-204 Tornado,L
+H207,HB-207 Alfa,L
+H21,CH-21 Work horse,L
+H25A,HS-125-1,M
+H25B,Hawker 750,M
+H25C,Hawker 1000,M
+H269,269,L
+H40,H-40,L
+H43A,H-43A,L
+H43B,HH-43B Huskie,L
+H46,CH-46 Sea Knight,M
+H47,CH-47 Chinook,M
+H500,500,L
+H53,CH-53A Sea Stallion,M
+H53S,CH-53E Super Stallion,M
+H60,UH-60 Black Hawk,M
+H64,AH-64 Longbow Apache,M
+HA2,HA-2 Sportster,L
+HA31,HA-31 Basant,L
+HA4T,Hawker 4000,M
+HAHU,HH-1 Hawker Hurricane,L
+HAR,Harrier,M
+HAW3,H2X Hawk 3,L
+HAWK,T-45 Goshawk,M
+HB21,HB-21 Hobbyliner,L
+HB23,HB-23 Hobbyliner,L
+HB3,HB-3,L
+HCAT,F6F Hellcat,L
+HD34,HD-34,M
+HDJT,HA-420 HondaJet,L
+HEAD,JD-1 Headwind,L
+HERN,DH-114 Heron,L
+HF20,HFB-320 Hansa,M
+HI27,Hi-27 Acrostar,L
+HIGH,Highlander,L
+HIND,Hind,L
+HL2,HL-2 Replica,L
+HLD4,D-4 Replica,L
+HM38,HM-380 Ladybug,L
+HMNY,EV-97VLA Harmony,L
+HN70,HN-700 Menestrel 2,L
+HORN,Hornisse,L
+HORZ,Horizon,L
+HPZL,PZL P-11C,L
+HR10,HR-100,L
+HR20,HR-200 Acrobin,L
+HROC,Rocket,L
+HRYA,Ryan Trainer,L
+HT16,HJT-16 Kiran,L
+HT2,HT-2,L
+HT32,HPT-32 Deepak,L
+HT34,HTT-34,L
+HT36,HJT-36 Sitara,L
+HU1,HU-1 Seagull,L
+HU2,HU-2 Petrel,L
+HUCO,HueyCobra,L
+HUML,Hummel Bird,L
+HUMM,Hummingbird,L
+HUNT,Hunter,M
+HURI,Hurricane,L
+HUSK,A-1 Husky,L
+HW4P,Hawk 4,L
+HW4T,Jet Hawk 4T,L
+I103,Il-103,L
+I114,Il-114,M
+I115,I-115,L
+I11B,I-11B Peque,L
+I153,I-153,L
+I15B,I-15bis,L
+I16,I-16,L
+I22,I-22 Iryda,M
+I23,I-23 Manager,L
+I3,I-3,L
+I66,I-66 San Francisco,L
+I828,IAR-828,L
+IA46,IA-46 Ranquel,L
+IA50,IA-50 Guarani 2,M
+IA51,IA-51 Tehuelche,L
+IA58,IA-58 Pucará,L
+IA63,IA-63 Pampa,L
+IFUR,Fury,L
+IL14,Il-14,M
+IL18,Il-18,M
+IL28,Il-28,M
+IL38,Il-38,M
+IL62,Il-62,H
+IL76,Il-76,H
+IL86,Il-86,H
+IL96,Il-96,H
+IMPU,Impulse 100,L
+IMPX,Impulse Xtreme 3000,L
+ION,Ion,L
+IP06,IPE-06 Curucaca,L
+IP26,IPAI-26 Tuca,L
+IP6A,IPE-06A,L
+IPAN,Ipanema,L
+IR21,IAR-821,L
+IR22,IAR-822,L
+IR23,IAR-823,L
+IR24,IAR-824,L
+IR25,IAR-825TP Triumf,L
+IR27,IAR-827 Dacic,L
+IR28,IAR-28MA,L
+IR31,IAR-831 Pelican,L
+IR46,IAR-46 Katty,L
+IR99,IAR-99 Soim,L
+IS2,IS-2,L
+IS28,IS-28M2,L
+ISAT,01 Isatis,L
+ISPT,Spitfire,L
+J1,J-1,L
+J10,J-10,M
+J177,JA-177,L
+J2,J-2 Cub,L
+J3,J-3 Cub,L
+J300,J-300 Joker,L
+J328,328JET Envoy 3,M
+J4,J-4 Cub Coupe,L
+J4B2,J4B2,L
+J5,J-5 Cub Cruiser,L
+J728,728JET,M
+J8A,J-8-1,M
+J8B,J-8-2,M
+JAB2,Jabiru J160,L
+JAB4,Jabiru J200,L
+JABI,Jabiru LSA,L
+JACE,Junior Ace,L
+JAG2,JAG,L
+JAGR,Jaguar,M
+JAJ5,J-5 Marco,L
+JAJ6,J-6 Fregata,L
+JANU,Janus,L
+JARO,Thruxton Jackaroo,L
+JAST,Jastreb,L
+JB1,X-JB-1 SeaDragon,L
+JB15,JOB-15,L
+JC01,JC-01,L
+JC02,JC-02,L
+JCOM,1121 Jet Commander,M
+JCRU,Jetcruzer,L
+JD2,JD-2 Delta,L
+JDOE,John Doe,L
+JE2,JE-2 Gyroplane,L
+JH7,JH-7,M
+JK05,JK-05 Beetle,L
+JL9,JL-9 Shanying,M
+JN76,JN-760 Cyclone Replica,L
+JP10,JP-100 Kestrel,L
+JPM1,JPM-01 Medoc,L
+JPRO,145 Jet Provost,L
+JRC1,JRC-01 Julcar,L
+JS1,Jetstream 1,L
+JS20,Jetstream 200,L
+JS3,Jetstream 3,L
+JS31,BAe-3100 Jetstream 31,L
+JS32,BAe-3200 Jetstream Super 31,M
+JS41,BAe-4100 Jetstream 41,M
+JSQA,F-1300 Jet Squalus,L
+JT2,JT-2 Titch,L
+JU52,Ju-52/3m,M
+JUN1,RK-1 Jungster 1,L
+JUN2,RK-2 Jungster 2,L
+JUNR,BO-208 Junior,L
+JUPI,Jupiter,L
+K126,Ka-126,L
+K226,Ka-226 Sergei,L
+K250,K-250,L
+K35A,KC-135A Stratotanker,H
+K35E,KC-135E Stratotanker,H
+K35R,KC-135R Stratotanker,H
+K50,A-50 Golden Eagle,M
+K51,K-51 Peregrino,L
+K8,K-8 Karakorum,L
+KA25,Ka-25,M
+KA26,Ka-26,L
+KA27,Ka-27,M
+KA50,Ka-50 Black Shark,M
+KA52,Ka-52 Alligator,M
+KA62,Ka-62,L
+KAFI,Firefly,L
+KAK1,AK-1,L
+KATB,Twinbee,L
+KE3,KE-3,H
+KEHA,Sport Hawk,L
+KELA,Lark,L
+KELD,D,L
+KFIR,Kfir,M
+KFIS,EA-1 Kingfisher,L
+KH4,KH-4,L
+KIS2,KIS TR-1,L
+KIS4,KIS TR-4 Cruiser,L
+KITI,Kittiwake,L
+KIWI,Kiwi,L
+KK60,60 Coupe,L
+KL07,Kl-107,L
+KL25,L-25,L
+KL35,Kl-35,L
+KLBR,King Colbra,L
+KM2,KM-2,L
+KMAX,K-1200 K-Max,L
+KNTW,Knight Twister,L
+KODI,Kodiak,L
+KOLL,Laser,L
+KP2,KP-2 Sova,L
+KP5,KP-5 Rapid 500,L
+KR1,KR-1,L
+KR2,KR-2,L
+KR34,KR-34 Challenger,L
+KRAG,Kraguj,L
+KRAH,Krähe,L
+KRIC,DK-1 Der Kricket,L
+KSTK,M-12 Kasatik,L
+KT1,KT-1 Woong-Bee,L
+KTOO,J-6 Karatoo,L
+KZ2,KZ-2 Kupe,L
+KZ3,KZ-3,L
+KZ4,KZ-4,L
+KZ7,KZ-7 Laerke,L
+KZ8,KZ-8,L
+L10,L-10 Electra,L
+L101,L-1011 TriStar,H
+L11,11A Sedan,L
+L11E,11E Spartan 185,L
+L12,L-12 Electra Junior,L
+L13,L-13,L
+L13M,L-13 Blanik (single-engine conversions),L
+L13S,L-13S Vivat,L
+L14,L-14 Super Electra,M
+L15,L-15,M
+L159,L-159 Albatros 2,M
+L18,L-18 Lodestar,M
+L181,Liberty 181,L
+L188,L-188 Electra,M
+L200,L-200 Morava,L
+L29,L-29 Delfin,L
+L29A,L-1329 Jetstar 6,M
+L29B,L-1329 Jetstar 2,M
+L37,L-237 Ventura,M
+L380,380 Ladybug,L
+L39,L-39 Albatros,L
+L40,L-40 Meta Sokol,L
+L410,L-410 Turbolet,L
+L5,L-5 Sentinel,L
+L59,L-59,L
+L6,L-6,L
+L60,L-60 Brigadyr,L
+L610,L-610,M
+L70,L-70 Vinka,L
+L8,8,L
+L90,L-90TP Redigo,L
+LA25,LA-250 Renegade,L
+LA4,LA-4 Buccaneer,L
+LA60,AL-60,L
+LA8,LA-8 Flagman,L
+LACO,LACO-125,L
+LAE1,E-1 Antares 20E,L
+LAKR,Akro Z,L
+LAKX,LAK-X,L
+LAMA,SA-315 Lama,L
+LANC,683 Lancaster,M
+LARK,100 Lark Commander,L
+LAST,Lasta,L
+LBUG,Lightning Bug,L
+LCA,LCA Tejas,M
+LCB,Commercial,L
+LEG2,Legacy 2000,L
+LEGD,Legend,L
+LEOP,Leopard,L
+LEVI,Levitation 4,L
+LGEZ,61 Long-EZ,L
+LH10,LH-10 Ellipse,L
+LIBE,Bellaire,L
+LION,Lionheart,L
+LJ23,23,L
+LJ24,24,L
+LJ25,25,L
+LJ28,28,L
+LJ31,31,M
+LJ35,35,M
+LJ40,40,M
+LJ45,45,M
+LJ55,55,M
+LJ60,60,M
+LK17,LAK-17AT,L
+LK19,LAK-19T,L
+LK20,LAK-20M,L
+LM5,LM-5 Aviastar,L
+LM5X,LM-5 Super Cub,L
+LM7,LM-7,L
+LMK1,LMK-1 Oryx,L
+LNC2,Lancair 200,L
+LNC4,Lancair 4,L
+LNCE,Lancair ES,L
+LNP4,Lancair PropJet 4,L
+LOCA,LoCamp,L
+LOVE,WR-1 Love,L
+LP1,LP-1 Fury,L
+LR2T,2000,L
+LS2,LS-2,L
+LS8,LS-8T,L
+LS9,LS-9,L
+LSTR,Lite Star,L
+LTNG,Lightning,M
+LUL5,L-5,L
+LUL6,L-6,L
+LUL7,L-7,L
+LUL8,L-8,L
+LWIN,Australian LightWing GA-912,L
+LWIS,Australian LightWing Speed,L
+LX32,X-32 Bekas,L
+LX34,X-34 Bekas,L
+LYNX,Lynx,L
+LYSA,Lysander,L
+M10,M-10 Cadet,L
+M101,M-101 Gzhel,L
+M106,M-106 Mission,L
+M110,110 Special,L
+M15,M-15 Belphegor,L
+M17,M-17 Stratosfera,M
+M18,M-18 Dromader,L
+M18T,M-18 Turbine Dromader,L
+M200,Commander 200,L
+M203,M-203 Barsuk,L
+M20P,M-20,L
+M20T,Bravo,L
+M21,M-21 Dromader Mini,L
+M212,M-212 Mission,L
+M22,M-22 Mustang,L
+M24,M-24 Dromader Super,L
+M26,M-26 Air Wolf,L
+M28,M-28 Skytruck,M
+M2HK,M-2 Hawk Major,L
+M308,MB-308,L
+M326,MB-326,L
+M339,MB-339,L
+M360,Meyer-360,L
+M4,M-4,L
+M404,404,M
+M5,M-5,L
+M55,M-55 Geophysica,M
+M6,M-6 Super Rocket,L
+M7,M-7,L
+M74,M-74 Wasp,L
+M7T,M-7-420 Star Craft,L
+M8,M-8,L
+M9,M-9,L
+MA1,MA-1 Paymaster,L
+MA5,MA-5 Charger,L
+MA60,MA-60,M
+MA6H,MA-60H,M
+MAGI,M-14 Magister,L
+MAGN,Magnum,L
+MAJR,LA-5 Major,L
+MAMB,MA-2 Mamba,L
+MAME,Merlin,L
+MARS,Mars,M
+MAVR,Maverick,L
+MC10,Cricri,L
+MC45,MAC-145,L
+MC90,90,L
+MCOU,Mini Coupe,L
+MCOY,Coyote,L
+MCR1,MC-100 Ban-Bi,L
+MCR4,Lafayette 4 Revolution,L
+MCUL,McCullocoupe,L
+MD11,MD-11,H
+MD3,MD-3 Swiss Trainer,L
+MD3R,MD-3 Rider,L
+MD52,MD-520N,L
+MD60,MD-600N,L
+MD81,MD-81,M
+MD82,MD-82,M
+MD83,MD-83,M
+MD87,MD-87,M
+MD88,MD-88,M
+MD90,MD-90,M
+ME08,Bf-108 Taifun,L
+ME09,Bf-109,L
+ME62,Me-262 Replica,L
+MEAD,Adventure,L
+MEL2,Melmoth 2,L
+MERK,Merkury,L
+MESS,M-38 Messenger,L
+METR,Meteor,M
+MEXP,Explorer,L
+MF10,MFI-10 Vipan,L
+MF17,MFI-17 Supporter,L
+MG15,MiG-15,L
+MG17,MiG-17,L
+MG19,MiG-19,M
+MG21,MiG-21,M
+MG23,MiG-23,M
+MG25,MiG-25,M
+MG29,MiG-29,M
+MG31,MiG-31,M
+MG44,MiG 1-44,M
+MGAT,MiG-AT,L
+MGIC,Magic,L
+MGNM,Magnum,L
+MH02,MH-02,L
+MH20,MH-2000,L
+MI10,Mi-10,M
+MI14,Mi-14,M
+MI2,Mi-2,L
+MI24,Mi-24,M
+MI26,Mi-26,M
+MI28,Mi-28,M
+MI34,Mi-34,L
+MI38,Mi-38,M
+MI4,Mi-4,L
+MI6,Mi-6,M
+MI8,Mi-8,M
+MICO,Microjet 200,L
+MIDR,ACBA-8 Midour 2,L
+MIMP,Mini-Imp,L
+MIMU,MM-1 Midget Mustang,L
+MIR2,Mirage 2000,M
+MIRA,Mirage 3,M
+MITE,M-18 Mite,L
+MJ10,MJ-10 Spit,L
+MJ12,MJ-12 P-40,L
+MJ1H,MJ-100 Spitfire Replica,L
+MJ2,MJ-2 Tempête,L
+MJ3,MJ-3 Dart,L
+MJ4,MJ-4 Shadow,L
+MJ5,MJ-5 Sirocco,L
+MJ53,MJ-53 Autan,L
+MJ55,MJ-55 Biso,L
+MJ7,MJ-7 Gnatsum,L
+MJ77,MJ-77 Gnatsum,L
+MJ8,MJ-8 1-Nine-0,L
+MJ80,MJ-80 Focke-Wulf Fw-190 Replica,L
+MJ9,MJ-9,L
+MJ90,MJ-90 Messerschmitt Bf-109 Replica,L
+MLER,Moottori-Lerche,L
+MM14,M-14 Scout,L
+MM16,M-16 Tandem Trainer,L
+MM19,M-19 Shark,L
+MM21,M-21,L
+MM22,M-22 Voyager,L
+MMAC,Mini-Mac,L
+MMAX,Mad Max,L
+MNEX,Nordic 8 Mini Explorer,L
+MOCU,MonoCulp,L
+MOGO,Mountain Goat,L
+MOL1,1,L
+MONA,M-17 Monarch,L
+MONI,Moni,L
+MOR2,2000 Nifty,L
+MOSP,Sport,L
+MOSQ,DH-98 Mosquito,M
+MP20,MP-205 Busard,L
+MR25,SR-2500 Super Rebel,L
+MR35,SR-3500 Moose,L
+MR3T,SR-3500 T-Moose,L
+MRAI,Monerai P,L
+MRAM,1-2 Mister America,L
+MRF1,Mirage F1,M
+MRMD,Mermaid,L
+MRTN,Marathon,L
+MS18,MS-200FG Morane,L
+MS23,MS-230,L
+MS25,MS-200RG Morane,L
+MS30,MS-300 Epsilon 2,L
+MS31,MS-315,L
+MS73,MS-733 Alcyon,L
+MS76,MS-760 Paris,L
+MSAI,AI,L
+MU2,MU-2,L
+MU23,Saurier,L
+MU30,MU-300 Diamond,M
+MUS2,Mustang 2,L
+MVN1,1 Fermer,L
+MX10,MXP-100 Aventura,L
+MX1T,MXP-1000 Tayrona,L
+MX2,MX-2,L
+MX65,MXP-650 Amigo,L
+MX80,MXP-800 Fantasy,L
+MY12,MY-102 Tornado,L
+MY13,MY-103 Mistral,L
+MYA4,M-4,H
+MYS4,MD-454A Mystère 4A,M
+N110,Ramier,L
+N120,1200 Norecrin,L
+N250,N-250,M
+N260,260 Super Broussard,M
+N262,N-262,M
+N3,N-3 Citabriette,L
+N320,3202,L
+N340,3400,L
+N3N,N3N,L
+N5,N-5,L
+NA40,NA-40 Bongo,L
+NAL2,NALLA-2 Hansa,L
+NAVI,Navion,L
+NC85,NC-854,L
+ND1T,NDN-1T Turbo Firecracker,L
+NDAC,Aerocruiser,L
+NDAT,Aerocruiser Turbo 450,L
+NDIC,Nordic,L
+NG4,NG-4 Prodigy IV,L
+NH90,NH-90,M
+NI28,28 Replica,L
+NIBB,F-14 Nibbio,L
+NIM,Nimrod,M
+NIMB,Nimbus,L
+NIPR,T-66 Nipper,L
+NMCU,ECH-02 Namcu,L
+NOMA,Nomad,L
+NORA,Noratlas,M
+NORS,Norseman,L
+NPOR,Nieuport 17,L
+NSTR,North Star,L
+NT10,T-10,L
+O1,Bird Dog,L
+O3,YO-3,L
+OH1,OH-1,L
+OKHO,Okhotnik,L
+OM1,OM-1 Bravo,L
+OMAG,Magnum,L
+OMGA,Omega 2,L
+OMLA,Laser 300,L
+OPCA,OA-7 Optica,L
+OSCR,Oscar,L
+OUDE,Desert Eagle 2,L
+OVOD,Ovod,L
+OZZI,BAC-204 Ozzie Mozzie,L
+P1,XP-1,M
+P100,P-100,L
+P130,P-130 Bleu Citron,L
+P136,P-136,L
+P148,P-148,L
+P149,P-149,L
+P180,P-180 Avanti,L
+P18T,PA-18T Super Cub,L
+P19,P-19 Scricciolo,L
+P2,Neptune,M
+P210,P210 Pressurized Centurion,L
+P220,P-220 Koala,L
+P230,P-230 Panda,L
+P270,P-270 Amster,L
+P28A,Cherokee (PA-28-140/150/160/180),L
+P28B,Cherokee (PA-28-235),L
+P28R,Cherokee Arrow,L
+P28T,Turbo Arrow 4,L
+P3,P-3 Orion,M
+P32R,Cherokee Lance,L
+P32T,Turbo Lance 2,L
+P337,P337 Pressurized Skymaster,L
+P38,P-38 Lightning,M
+P39,P-39 Airacobra,L
+P40,P-40 Warhawk,L
+P46T,Malibu Meridian,L
+P47,P-47 Thunderbolt,M
+P4Y,P4Y Privateer,M
+P50,P-50 Bouvreuil,L
+P51,P-51 Mustang,L
+P57,P-57 Fachiro 2,L
+P60,P-60 Minacro,L
+P61,P-61 Black Widow,M
+P63,P-63 Kingcobra,L
+P66P,P-166,L
+P66T,P-166DL3,L
+P68,P-68,L
+P68T,AP-68TP-300 Spartacus,L
+P70,P-70,L
+P750,750XL,L
+P80,P-80,L
+P82,P-82 Twin Mustang,M
+PA11,PA-11 Cub Special,L
+PA12,PA-12 Super Cruiser,L
+PA14,PA-14 Family Cruiser,L
+PA15,PA-15 Vagabond,L
+PA16,PA-16 Clipper,L
+PA17,PA-17 Vagabond,L
+PA18,PA-18 Super Cub,L
+PA20,PA-20 Pacer,L
+PA22,PA-22 Tri-Pacer,L
+PA23,PA-23-150 Apache,L
+PA24,PA-24 Comanche,L
+PA25,PA-25 Pawnee,L
+PA27,Aztec,L
+PA30,PA-30 Twin Comanche,L
+PA31,Navajo,L
+PA32,PA-32 Saratoga,L
+PA34,PA-34 Seneca,L
+PA36,PA-36 Pawnee Brave,L
+PA38,PA-38 Tomahawk,L
+PA44,PA-44 Seminole,L
+PA46,Malibu,L
+PAGO,ADV-01 Papango,L
+PANT,Panther 2,L
+PARL,Aerial,L
+PAT2,Patriot 2,L
+PAT4,T-1040,L
+PAUL,CAP-4 Paulistinha,L
+PAY1,PA-31T1-500 Cheyenne 1,L
+PAY2,Cheyenne 2,L
+PAY3,Cheyenne 3,L
+PAY4,PA-42-1000 Cheyenne 400,L
+PC12,PC-12,L
+PC21,PC-21,L
+PC6P,PC-6 Porter,L
+PC6T,Turbo-Porter,L
+PC7,PC-7,L
+PC9,PC-9 Hudournik,L
+PCA2,PCA-2,L
+PDIG,SST-2000 Pairadigm,L
+PEGA,F-20 Pegaso,L
+PEGZ,Pegazair,L
+PELI,Pelican,L
+PEMB,P-66 Pembroke,L
+PETR,Super Petrel,L
+PGEE,Perigee,L
+PGK1,PGK-1 Hirondelle,L
+PHIL,Phillicopter,L
+PICO,F-15 Picchio,L
+PILL,PA-28R-300 Pillán,L
+PINO,F-22 Pinguino,L
+PISI,Sinus,L
+PITA,Taurus,L
+PIVI,Virus,L
+PK11,PIK-11 Tumppu,L
+PK15,PIK-15 Hinu,L
+PK18,PIK-18 Sytky,L
+PK19,PIK-19 Muhinu,L
+PK20,PIK-20E,L
+PK21,PIK-21 Super Sytky,L
+PK23,PIK-23 Suhinu,L
+PKAN,U-3M Pelikan,L
+PL1,PL-1 Laminar,L
+PL12,PL-12 Airtruk,L
+PL2,PL-2,L
+PL4,PL-4,L
+PL9,PL-9 Stork,L
+PLUS,Plus C,L
+PNR2,Pioneer 200,L
+PNR3,Pioneer 300,L
+PO2,Po-2,L
+PO60,60 Sauterelle,L
+POLI,Polliwagen,L
+PONY,Pony,L
+PP2,P-2,L
+PP3,P-3,L
+PPRO,P-56 Provost,L
+PRCE,P-57 Sea Prince,L
+PREN,P-40 Prentice,L
+PRET,GM&T Pretty Flight,L
+PREX,Private Explorer,L
+PRM1,390 Premier 1,L
+PROC,Proctor,L
+PROT,Parrot,L
+PROW,Prowler,L
+PRTS,281 Proteus,L
+PSW4,SW-4 Maluch,L
+PT21,P-210 Coati,L
+PT22,PT-22 Recruit,L
+PT70,P-170,L
+PT80,P-180,L
+PTMS,S-12 Macho Stinker,L
+PTRL,Petrel,L
+PTS1,S-1 Special,L
+PTS2,S-2 Special,L
+PTSS,S-1-11 Super Stinker,L
+PULS,Pulsar,L
+PUMA,CH-33 Puma,L
+PUP,B-121 Pup,L
+PURS,S-11 Pursuit,L
+PUSH,Pusher,L
+PW4,PW-4,L
+PZ01,PZL-101 Gawron,L
+PZ02,PZL-102 Kos,L
+PZ04,PZL-104 Wilga,L
+PZ05,PZL-105 Flaming,L
+PZ06,PZL-106 Kruk,L
+PZ12,PZL-112 Junior,L
+PZ26,PZL-126 Mrówka,L
+PZ3T,PZL-130 Orlik,L
+PZ4M,PZL-104M Wilga 2000,L
+PZ6T,PZL-106AT Turbo Javelin,L
+Q5,Q-5,M
+QAIL,Quail,L
+QEST,Questor,L
+QIC2,Quickie Q2,L
+QR01,CQR-01,L
+QUAS,Quasar Lite,L
+QUIC,Quickie,L
+R100,R-1180 Aiglon,L
+R109,DR-109 Rhino,L
+R11,R-11,L
+R135,RC-135,H
+R185,Rocket 185,L
+R2,R-02 Robert,L
+R200,R-2100 Super Club,L
+R22,R-22 Beta,L
+R300,R-300,L
+R4,R-4 Hoverfly,L
+R44,R-44 Raven,L
+R66,R-66,L
+R721,727-100RE Super 27,M
+R722,727-200RE Super 27,M
+R90F,R-90-230FG,L
+R90R,R-90-230RG,L
+R90T,R-90-420AT,L
+RA14,RA-14 Loisirs,L
+RA17,RA-17,L
+RAF2,RAF-2000,L
+RAID,Super Sky Raider,L
+RAIL,Rail,L
+RALL,MS-880 Rallye Club,L
+RANG,Rangemaster,L
+RARO,Radial Rocket,L
+RAV5,Ravin 500,L
+RAVN,Raven 257,L
+RAZM,Raz-Mut,L
+RBEL,Rebel,L
+RC3,RC-3 Seabee,L
+RC70,Commander 710,L
+RD03,RD-03 Edelweiss,L
+RD20,RD-20 Raid Driver,L
+RDH2,DH-2,L
+RELI,Reliant,L
+RENE,Renegade,L
+REV6,Revcon 6G,L
+RF10,RF-10,L
+RF3,RF-3,L
+RF4,RF-4,L
+RF47,RF-47,L
+RF5,RF-5,L
+RF6,RF-6,L
+RF9,RF-9,L
+RFAL,Rafale,M
+RGNT,Regente,L
+RJ03,RJ-03 Ibis,L
+RJ1H,RJ-100 Avroliner,M
+RJ70,RJ-70 Avroliner,M
+RJ85,RJ-85 Avroliner,M
+RK5,RK-5,L
+RLU1,RLU-1 Breezy,L
+RMOU,EH1-01 Rotormouse,L
+RNGR,RangeR,L
+RODS,DR-107 One Design,L
+ROND,F-4 Rondone,L
+ROSE,Windrose,L
+RP1,RP-1,L
+RPUP,Roto-Pup,L
+RS12,S-12 Airaile,L
+RS18,RS-180 Sportsman,L
+RTA4,RTAF-4 Chandra,L
+RUBI,ML-250 Rubis,L
+RV10,RV-10,L
+RV3,RV-3,L
+RV4,RV-4,L
+RV4T,RV-4T,L
+RV6,RV-6,L
+RV7,RV-7,L
+RV8,RV-8,L
+RV9,RV-9,L
+RVAL,AH-2 Rooivalk,M
+RW19,RW-19 Stork,L
+RW20,RW-20 Stork,L
+RW22,RW-22 Tiger Moth,L
+RW26,RW-26 Special 2,L
+RW3,RW-3 Multoplane,L
+RYST,ST-A,L
+S05F,S-205-18F,L
+S05R,S-205-20R,L
+S1,S-1,L
+S10,10 Voyager,L
+S107,107,L
+S108,108 Voyager,L
+S10S,S-10 Chrysalis,L
+S11,S-11 Instructor,L
+S12,S-12 Air Car,L
+S200,S-200 Minijet,L
+S202,S-202,L
+S208,S-208,L
+S21,S-21,L
+S210,SE-210 Caravelle,M
+S211,S-211,L
+S223,223 Flamingo,L
+S274,Shahed 274,L
+S278,Shahed 278,L
+S2P,S-2 Tracker,M
+S2T,S-2 Turbo Tracker,M
+S3,S-3 Viking,M
+S330,330,L
+S360,SA-360 Dauphin,L
+S37,Su-47 Berkut,M
+S38,S-38 Replica,L
+S39,S-39,L
+S4,S-4 Privateer,L
+S400,S-400 Kapitan,L
+S45,S-45 Mystere,L
+S51,S-51,L
+S51D,S-51D,L
+S52,S-52,L
+S55P,S-55,L
+S55T,S-55T,L
+S58P,S-58,L
+S58T,S-58T,L
+S601,SN-601 Corvette,L
+S61,SH-3 Sea King,M
+S61R,HH-3 Pelican,M
+S62,HH-52 Seaguard,L
+S64,S-64 Skycrane,M
+S65C,SA-365C Dauphin 2,L
+S76,S-76 Spirit,L
+S900,S-901,L
+S92,S-92 Helibus,M
+SA02,SA-102.5 Cavalier,L
+SA03,SA-103 Cavalier,L
+SA04,SA-104 Cavalier,L
+SA05,SA-105 Super Cavalier,L
+SA10,SA-100 Starduster,L
+SA11,SA-11 Playmate,L
+SA20,SA-20,L
+SA3,SA-3 Playboy,L
+SA30,SA-300 Starduster Too,L
+SA37,SA-2-37A Condor,L
+SA38,SA-2-38A Twin Condor,L
+SA50,SA-500 Starlet,L
+SA6,SA-6 Flut-R-Bug,L
+SA6E,SA-6 Envoy,L
+SA7,SA-7 Sky-Coupe,L
+SA70,SA-700 Acroduster,L
+SA75,SA-750 Acroduster Too,L
+SAB2,Sabre 2,L
+SABA,Saba,L
+SACE,Super Ace,L
+SACR,Acro Advanced,L
+SAFF,Saffire,L
+SAH1,SAH-1,L
+SAKO,S-10 Sakota,L
+SALB,Albatross,L
+SAND,S-25 Sandringham,M
+SAPH,CP-1320 Saphir,L
+SARA,Saras,L
+SASP,Spitfire Mk25,L
+SASY,PT-2 Sassy,L
+SATA,HA-220 Super Saeta,L
+SAVG,Savage,L
+SB05,105,L
+SB20,2000,M
+SB29,J29,M
+SB32,J32 Lansen,M
+SB35,J35 Draken,M
+SB37,AJ37 Viggen,M
+SB39,JAS39 Gripen,M
+SB7,SB-7 Seeker,L
+SB91,91 Safir,L
+SBD,SBD Dauntless,L
+SBLS,SkyBlaster,L
+SBM3,SBM-03 Kos,L
+SBOY,Skyboy,L
+SBR1,Sabreliner,M
+SBR2,Sabre 75,M
+SC01,SC-01 Speed Canard,L
+SC7,SC-7 Skyvan,L
+SCAM,Scamp,L
+SCEP,Scepter,L
+SCOM,Comet,L
+SCOR,Scorpion,L
+SCOU,Scout,L
+SCRO,Schlacro,L
+SCTR,Scooter,L
+SCUB,Scub,L
+SCW1,101,L
+SD26,SD-260,L
+SDUS,Super Starduster,L
+SE5A,SE-5A,L
+SE5R,SE-5A Replica,L
+SEAT,Turbine Seawind,L
+SEAW,Seawind,L
+SERA,Aerocraft,L
+SEST,SeaStar,L
+SF2,SF-2 Cygnet,L
+SF23,SF-23 Sperling,L
+SF24,SF-24 Motorspatz,L
+SF25,SF-25 Falke,L
+SF27,SF-27M,L
+SF28,SF-28 Tandem Falke,L
+SF31,SFS-31 Milan,L
+SF32,SF-32,L
+SF34,340,M
+SF35,SF-35,L
+SF36,SF-36,L
+SG37,SGM-2-37,L
+SG70,SG-70 STOLGlass,L
+SG92,Turbo Finist,L
+SGRA,Rally,L
+SGUP,377SGT Super Guppy,M
+SH33,330,M
+SH36,360,M
+SH4,SH-4,L
+SH5,SH-5,M
+SHAC,696 Shackleton,M
+SHAK,FM-2 Air Shark,L
+SHAW,Sea Hawk,M
+SHEA,Shearwater,L
+SHEK,S-16 Shekari,L
+SHER,Sherpa,L
+SHIP,Airship,-
+SHOE,Shoestring,L
+SHOP,Skyhopper,L
+SIDE,S Sidewinder,L
+SIGM,Sigma,L
+SILH,SA-60 Silhouette,L
+SIR2,Sirius 2,L
+SIRA,P-2002 Sierra,L
+SJ30,SJ-30,L
+SK70,SK-700,L
+SKAR,Sky Arrow,L
+SKIF,AeroSkiff,L
+SKIM,Skimmer,L
+SKRA,Sky Ranger,L
+SKYO,Skyote,L
+SKYR,Skyranger,L
+SL1,SL-1 Star-Lite,L
+SL39,SL-39,L
+SL90,SL-90 Leshii,L
+SM01,SM-01 Vega,L
+SM19,SM-1019,L
+SM20,SM-2000,L
+SM60,SM-6000 Tri-Motor,L
+SM92,SM-92 Finist,L
+SMAX,M-22 SeaMax,L
+SMB2,Super Mystère B2,M
+SNAD,636 Snobird Adventurer,L
+SNOS,SR-1 Snoshoo,L
+SNS2,SNS-2 Guppy,L
+SNS7,SNS-7 Hiperbipe,L
+SNS9,SNS-9 EXP-2,L
+SOK2,2,L
+SOKL,M-1 Sokol,L
+SOLI,77 Solitaire,L
+SONX,Sonex,L
+SP20,SP-20,L
+SP33,33,L
+SP55,SP-55,L
+SP6E,P-6E Replica,L
+SP7,Executive,L
+SP91,SP-91 Slava,L
+SP95,SP-95,L
+SPA2,Sport-Aire 2,L
+SPAR,Speed Arrow,L
+SPC2,Specter 2,L
+SPEL,Spitfire Elite,L
+SPGY,Sportster Gyro,L
+SPHA,SparrowHawk,L
+SPIR,Spirit,L
+SPIT,Spitfire,L
+SPOR,Sport 1700,L
+SPR2,Sparrow 2,L
+SPST,Sportster,L
+SPT1,Mark 1,L
+SQ2T,SQ-2000,L
+SQES,SkyQuest,L
+SR20,SR-20,L
+SR22,SR-22,L
+SR71,SR-71 Blackbird,M
+SRAC,Sport Racer,L
+SRAI,Sonerai,L
+SRAS,Senior Aero Sport,L
+SREY,SeaRey,L
+SS2P,S-2 Ag Commander,L
+SS2T,S-2R-T34 Turbo Thrush,L
+SSAB,F-100 Super Sabre,M
+SSTM,Sea Storm,L
+ST1,E2E Speedtwin,L
+ST10,ST-10,L
+ST30,S-300,L
+ST50,ST-50,L
+ST60,S-600,L
+ST75,75 Kaydet,L
+ST87,ST-87 Europlane,L
+STAL,Stallion,L
+STAR,2000 Starship,L
+STAT,Turbine Stallion,L
+STCH,Storch,L
+STFF,Firefly,L
+STIL,T-9 Stiletto,L
+STLN,Stallion,L
+STOR,SS-4 Storch,L
+STR2,S-2,L
+STRA,Lone Ranger,L
+STRI,Triplane Replica,L
+STRM,Storm,L
+STST,SA-2 Star Streak,L
+SU15,Su-15,M
+SU17,Su-17,M
+SU24,Su-24,M
+SU25,Su-25,M
+SU26,Su-26,L
+SU27,Su-27,M
+SU29,Su-29,L
+SU31,Su-31,L
+SU38,Su-38,L
+SU7,Su-7,M
+SU80,Su-80,M
+SU95,Superjet 100-95,M
+SUBA,FA-200 Aero Subaru,L
+SUCO,SuperCobra,M
+SUNB,100 Sunbird,L
+SUNV,Super Universal,L
+SURU,IPT-16 Surubim,L
+SUSO,SS-2000 Super Solution,L
+SV4,SV-4,L
+SVNH,MXP-740 Savannah,L
+SW2,SA-26 Merlin 2,L
+SW3,Merlin 3,L
+SW4,Merlin 4,L
+SWAK,Space Walker,L
+SWAT,Swati,L
+SWIF,Swift,M
+SWOR,Swordfish,L
+SX30,SX-300,L
+SYCA,171 Sycamore,L
+SYMP,SA-160 Symphony,L
+SZ45,SZD-45 Ogar,L
+SZ9M,SZD-9bis Bocian M-2000,L
+T1,T-1,L
+T101,T-101 Grach,L
+T104,Tu-104,M
+T114,Tu-114,H
+T124,Tu-124,M
+T134,Tu-134,M
+T144,Tu-144,H
+T154,Tu-154,M
+T160,Tu-160,H
+T18,T-18 Tiger,L
+T2,T-2 Buckeye,L
+T204,Tu-204,M
+T211,T-211,L
+T22M,Tu-22M,M
+T250,T-250 Aries,L
+T28,T-28 Trojan,L
+T30,T-30 Katana,L
+T33,T-33 Shooting Star,M
+T334,Tu-334,M
+T34P,T-34A Mentor,L
+T34T,T-34C Turbo Mentor,L
+T35,T-35 Buckaroo,L
+T37,T-37,L
+T38,T-38 Talon,L
+T4,T-4,M
+T40,T-40,L
+T411,T-411 Aist,L
+T415,T-415 Snegir,L
+T444,Tu-444,M
+T5,T-5,L
+T50,T-50 Bobcat,L
+T51,T-51 Mustang,L
+T6,T-6 Texan,L
+T7,T-7,L
+TA15,15 Tourist,L
+TA16,TA-16 Trojan,L
+TA20,20,L
+TAA1,TAA-1,L
+TAGO,Tango-2,L
+TAIL,Tailwind,L
+TAMP,TB-9 Tampico,L
+TARO,Tauro,L
+TAYA,A,L
+TAYB,BL,L
+TAYD,DC,L
+TB05,Texas Bullet 205,L
+TB30,TB-30 Epsilon,L
+TB31,TB-31 Omega,L
+TBEE,UC-1 Twin Bee,L
+TBM,TBM Avenger,M
+TBM7,TBM-700,L
+TBM8,TBM-850,L
+TBR3,T-Bird 2 Cargo,L
+TC2,TC-2,L
+TCAT,Tigercat,M
+TCOU,Twin Courier,L
+TD2,TD-2 Tempest,L
+TEAL,TSC-1 Teal,L
+TERM,Termite,L
+TERR,Terrier,L
+TEX2,T-6 Texan 2,L
+TEXA,Texan,L
+TF19,F-19 Sportsman,L
+TF21,F-21,L
+TF22,F-22,L
+TFK2,TFK-2 Carat,L
+TFOC,Focke-Wulf Fw-190,L
+TFUN,Taifun,L
+TGRS,Tigress,L
+TIGR,EC-665 Tiger,L
+TIJU,Junior,L
+TIPB,B,L
+TJET,TJ-1500 TwinJet,L
+TL20,TL-2000 Sting,L
+TLEG,Turbine Legend,L
+TM5,TM-5,L
+TMOT,Tiger Moth,L
+TMUS,Thunder Mustang,L
+TNAV,480 Twin Navion,L
+TNDR,Tundra,L
+TOBA,Tobago,L
+TOOT,Little Toot,L
+TOR,Tornado,M
+TOUR,M-10 AirTourer,L
+TOXO,Toxo,L
+TP40,Curtiss P-40,L
+TPIL,Turbo Pillán,L
+TPIN,Twin Pioneer,L
+TR1,TR-1 Trigull,L
+TR20,TR-200,L
+TR26,TR-260 Sirius,L
+TR55,550 Trener,L
+TRAP,T-Raptor,L
+TRBA,Trener Baby,L
+TRDO,Tornado SS,L
+TRF1,F-1,L
+TRIM,Tri-Motor,L
+TRIN,Trinidad,L
+TRIS,BN-2A Mk3 Trislander,L
+TRMA,A Tri-Motor,L
+TRWN,Tradewind,L
+TS11,TS-11 Iskra,L
+TS8,TS-8 Bies,L
+TSPT,Supermarine Spitfire,L
+TSTR,Twinstar,L
+TT62,TT-62 Alekto,L
+TTWO,Teenie Two,L
+TU16,Tu-16,M
+TU22,Tu-22,M
+TU4,Tu-4,M
+TU95,Tu-95,H
+TUCA,EMB-312 Tucano,L
+TUTR,621 Tutor,L
+TVL4,4,L
+TVLB,B,L
+TWSP,Spitfire,L
+TZRV,JT-2-2 Tazarve,L
+U16,Albatross,M
+U2,U-2,M
+U21,Ute (U-21A/G),L
+U22,QU-22,L
+UBAT,Ultrabat,L
+UF10,UFM-10 Samba,L
+UF13,UFM-13 Lambada,L
+UFHT,HeliThruster,L
+UH1,UH-1 Iroquois,L
+UH12,UH-12,L
+UH1Y,UH-1Y,M
+UHEL,Ultralight helicopter,-
+UL10,10 Albertan,L
+UL20,20,L
+UL2F,UL-2000 Flamingo,L
+UL45,450 Ultra,L
+ULAC,Ultralight aircraft,-
+ULPA,Panther,L
+ULTS,Ultrasport 496,L
+UM18,18,L
+UNIV,Universal,L
+US1,US-1,M
+UT60,60,L
+UT65,65 Privrednik,L
+UT66,66,L
+UT75,75,L
+UU12,U-12 Flamingo Replica,L
+V1,Mohawk,M
+V10,OV-10 Bronco,L
+V22,V-22 Osprey,M
+V322,Votec 322,L
+V351,Votec 351,L
+V500,Voyager-500,L
+V8SP,V-8 Special,L
+VALI,Valiant,L
+VAMP,Vampire,L
+VANT,VA-10 Vantage,L
+VAUT,SO-4050 Vautour,M
+VC10,VC-10,H
+VECT,CBA-123 Vector,M
+VELO,Velocity,L
+VENT,Ventus,L
+VEZE,33 VariEze,L
+VF14,VFW-614,M
+VF2,VF-2 Esprit,L
+VF35,F-35B Lightning II,M
+VF60,VF-600 Mission,L
+VG3T,Vega 3000,L
+VGUL,Vega Gull,L
+VIMA,Viima,L
+VIMY,FB-27 Vimy Replica,L
+VIPJ,ViperJet,L
+VIPR,Viper,L
+VISC,Viscount,M
+VIX,Kitfox Vixen,L
+VIXN,Vixen,L
+VJ22,VJ-22 Sportsman,L
+VK3P,VK-30 Cirrus,L
+VM1,VM-1 Esqual,L
+VMT,VM-T Atlant,H
+VNOM,DH-112 Venom,M
+VO10,Commander 100,L
+VP2,VP-2 Volksplane,L
+VSON,Vision,L
+VTOR,AP-68TP-600 Viator,L
+VTUR,Venture,L
+VULC,698 Vulcan,M
+VUT1,VUT-100 Cobra,L
+VVIG,VariViggen,L
+VW10,VoWi-10,L
+VWIT,V-Witt,L
+W11,W-11 Boredom Fighter,L
+W201,201,L
+W3,W-3,L
+W62T,620TP,L
+WA40,WA-40 Super 4,L
+WA41,WA-41 Baladou,L
+WA42,WA-421 Prestige,L
+WA50,WA-51 Pacific,L
+WA80,WA-80 Piranha,L
+WAC9,9,L
+WACA,IBA,L
+WACC,C,L
+WACD,D,L
+WACE,E (ARE/HRE/SRE) Aristocrat,L
+WACF,F,L
+WACG,G,L
+WACM,JWM,L
+WACN,AVN,L
+WACO,10,L
+WACT,RPT,L
+WAIX,Waiex,L
+WASP,Wasp,L
+WB57,WB-57,M
+WBOO,Whitney Boomerang,L
+WCAT,Wildcat,L
+WDEX,Windex,L
+WESX,WS-58 Wessex,L
+WF4U,Vought F4U Corsair,L
+WFOC,Focke-Wulf 190,L
+WFUR,Hawker Sea Fury,L
+WG30,WG-30,L
+WH1,WH-1 Traveler,L
+WHAT,Special,L
+WHIL,WLAC-1 White Lightning,L
+WHIS,GR-2 Whisper,L
+WHIT,M-11 Whitney Straight,L
+WHKN,318 White Knight,M
+WICH,Wichawk,L
+WILT,Wild Thing,L
+WIND,GW-1 Windwagon,L
+WINE,Eagle,L
+WIRR,CA-16 Wirraway,L
+WISP,Whisper,L
+WM2,WM-2,L
+WOPU,Woody Pusher,L
+WP40,Curtiss P-40 Kittyhawk,L
+WP47,Republic P-47 Thunderbolt,L
+WS22,WS-202 Sprint,L
+WT9,WT-9 Dynamic,L
+WUSH,Seahawk,L
+WW1,WW-1 Der Jäger D-9,L
+WW23,1123 Westwind,M
+WW24,1124 Westwind,M
+WZER,Mitsubishi Zero,L
+X29,X-29,M
+X32,X-32,M
+X4,X-4,L
+XL2,XL-2,L
+XNOS,Xenos,L
+XV15,XV-15,L
+Y11,Y-11,L
+Y112,Yak-112,L
+Y12,Y-12 Harbinger,L
+Y130,Yak-130,M
+Y141,Yak-141,M
+Y18T,Yak-18T,L
+YAK3,Yak-3,L
+YAK9,Yak-9,L
+YALE,Yale,L
+YARR,Yarrow Arrow,L
+YAST,Yastreb,L
+YC12,YC-12 Tourbillon,L
+YK11,Yak-11,L
+YK12,Yak-12,L
+YK18,Yak-18,L
+YK28,Yak-28,M
+YK38,Yak-38,M
+YK40,Yak-40,M
+YK42,Yak-42,M
+YK50,Yak-50,L
+YK52,Yak-52,L
+YK53,Yak-53,L
+YK54,Yak-54,L
+YK55,Yak-55,L
+YK58,Yak-58,L
+YNHL,KT-112 Yanhol,L
+YS11,YS-11,M
+YURO,Orao,M
+Z22,Z-22 Junak,L
+Z26,Z-26 Trener,L
+Z37P,Z-37,L
+Z37T,Z-37T Agro Turbo,L
+Z42,Z-42,L
+Z43,Z-43,L
+Z50,Zlin Z-50,L
+ZA6,ZA-6 Sanka,L
+ZEP2,Zephyr 2,L
+ZEPH,122 Zephyr,L
+ZERO,A6M Zero,L
+ZIA,Zia,L
+ZIU,ZIU,L
+ZULU,Zùlù,L
+ZZZZ,Aircraft type not (yet) assigned a designator,-

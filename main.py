@@ -71,6 +71,8 @@ def login_user():
 if __name__ == "__main__":
     db.init_app(app)
     db.create_all('__all__', app)
+    Airports().feedup(app)
+    AircraftTypes().feedup(app)
     scheduler = APScheduler()
     scheduler.init_app(app)
     scheduler.start()
