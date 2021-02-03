@@ -18,6 +18,9 @@ def bearer_autheticator(req):
                                            AuthTokens.token_expires > datetime.now()).first()
         if not userdata and config['app']['ivao_authentication'] != 'true':
             return False
+        else:
+            userdata.token_expires = datetime.now() + timedelta(hours=1)
+            db.session.commit()
         # this block works only when ivao_authenticaton switched on
         if not userdata:  # token not found or expires
             userdata = requests.get(f"{config['app']['ivao_login_url']}?token={token}&type=json").json()

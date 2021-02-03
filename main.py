@@ -1,6 +1,8 @@
+import pathlib
 from flask import Flask, jsonify, request
 from flask_caching import Cache
 from flask_apscheduler import APScheduler
+from flask_cors import CORS
 from configparser import ConfigParser
 from services import db, APConfig
 from datetime import datetime
@@ -9,14 +11,14 @@ from models import *
 from controllers import *
 
 config = ConfigParser()
-config.read("config.ini")
+config.read(pathlib.Path(__file__).parents[0].__str__()+"/config.ini")
 version = config['app']['version']
 app = Flask(__name__)
 app.config.from_object(APConfig)
 app.config['SQLALCHEMY_DATABASE_URI'] = config['app']['db_uri']
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 cache = Cache(app, config={'CACHE_TYPE': 'simple'})
-
+CORS(app)
 
 def garbage_collection():
     print("Cleaning orphaned token")
@@ -67,6 +69,11 @@ def login_user():
     """Returns access token to valid user"""
     return UserController(config).login()
 
+@app.route('/beat')
+@authenticated
+def beat(user):
+    """TODO"""
+    return jsonify({"success": True})
 
 if __name__ == "__main__":
     db.init_app(app)
