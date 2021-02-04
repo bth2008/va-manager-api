@@ -31,3 +31,11 @@ class Documents(db.Model):
             return {"success": True}
         except exc.IntegrityError:
             return {"success": False, "message": "No documents found"}
+
+    def save_doc(self, body):
+        try:
+            self.body = body['content']
+            db.session.commit()
+            return {"success": True}
+        except exc.IntegrityError:
+            return {"success": False, "message": "No documents found"}

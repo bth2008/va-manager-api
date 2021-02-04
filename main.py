@@ -44,6 +44,10 @@ def all_documents():
 def one_doc(doc_id):
     return jsonify(DocController(config).one_doc(doc_id))
 
+@app.route('/document/save/<int:doc_id>', methods=['POST'])
+@authenticated
+def save_doc(user, doc_id):
+    return jsonify(DocController(config).save_doc(doc_id, user, request.json))
 
 @app.route('/document/add', methods=['POST'])
 @authenticated

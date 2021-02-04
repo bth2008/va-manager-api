@@ -18,6 +18,13 @@ class DocController:
     def add_doc(user, data):
         return Documents().add_doc(user, data)
 
+    def save_doc(self, doc_id, user, content):
+        if self.config['airline']['ceo_vid'] == str(user.vid):
+            doc = Documents.query.get(doc_id)
+            return doc.save_doc(content) if doc else {"success": False,
+                                              "message": "No document found"}
+        return {"success": False, "message": "Only CEO can do that"}
+
     def del_doc(self, user, doc_id):
         if self.config['airline']['ceo_vid'] == user.vid:
             doc = Documents.query.get(doc_id)
